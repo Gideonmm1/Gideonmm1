@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am Gideon. Welcome to my Portfolio👋
 
+- Backend Python Developer 
 <!--
 **Gideonmm1/Gideonmm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📫 How to reach me:
+<a href='mailto: gideonmm1@gmail.com'>
+    <img src='/images/gmail.png' alt="Email" width="30px" height="height">
+</a>
+<a href='https://twitter.com/GideonCodes'>
+    <img src='/images/twitter.png' alt= "Twitter" width="30px" height="height">
+</a>
+
+## 👩🏽‍💻 Education
+
+
+## ✍🏾 Projects
+
+## 📝 Skills
