@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 
 ## ✍🏾 Projects
+- [Reddit Scrapper](https://github.com/Gideonmm1/Reddit-Telegram-Bot)
 <br>
 
 ## 📝 Skills
