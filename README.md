@@ -22,7 +22,7 @@ Here are some ideas to get you started:
         <img src='/images/gmail.png' alt="Email" width="30px" height="height">
     </a>
 </div>
-
+<br>
 <div>
     <a href='https://twitter.com/GideonCodes'>
         <img src='/images/twitter.png' alt= "Twitter" width="30px" height="height">
@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 ## ✍🏾 Projects
 
 ## 📝 Skills
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gideonmm1&theme=blue-green'>
