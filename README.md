@@ -1,6 +1,10 @@
 ### Hi there, I am Gideon. Welcome to my Portfolio👋
 
-- Backend Python Developer 
+- 🕸️ Backend Python Developer 
+- 📱 Upcoming Flutter Developer
+- ♟️ Chess players (Sometimes😄)
+- 🎮 Ardent FIFA2022 player
+
 <!--
 **Gideonmm1/Gideonmm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,4 +40,7 @@ Here are some ideas to get you started:
 ## ✍🏾 Projects
 
 ## 📝 Skills
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gideonmm1&theme=white-blue'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gideonmm1&theme=white-blue' width="40px">
+
+
+&copy; <img src='http://ForTheBadge.com/images/badges/built-with-love.svg' width="20px">
