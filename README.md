@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ## ✍🏾 Projects
 
 ## 📝 Skills
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gideonmm1&theme=blue-green'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gideonmm1&theme=white-blue'>
