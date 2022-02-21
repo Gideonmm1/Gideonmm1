@@ -17,12 +17,18 @@ Here are some ideas to get you started:
 -->
 
 ## 📫 How to reach me:
-<a href='mailto: gideonmm1@gmail.com'>
-    <img src='/images/gmail.png' alt="Email" width="30px" height="height">
-</a>
-<a href='https://twitter.com/GideonCodes'>
-    <img src='/images/twitter.png' alt= "Twitter" width="30px" height="height">
-</a>
+<div>
+    <a href='mailto: gideonmm1@gmail.com'>
+        <img src='/images/gmail.png' alt="Email" width="30px" height="height">
+    </a>
+</div>
+
+<div>
+    <a href='https://twitter.com/GideonCodes'>
+        <img src='/images/twitter.png' alt= "Twitter" width="30px" height="height">
+    </a>
+</div>
+
 
 ## 👩🏽‍💻 Education
 
