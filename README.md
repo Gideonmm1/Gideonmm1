@@ -2,7 +2,7 @@
 
 - 🕸️ Backend Python Developer 
 - 📱 Upcoming Flutter Developer
-- ♟️  Chess players (Sometimes😄)
+- ♟️  Chess player (Sometimes😄)
 - 🎮 Ardent FIFA2022 player
 
 <!--
