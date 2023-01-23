@@ -2,8 +2,7 @@
 
 - 🕸️ Backend Python Developer 
 - 📱 Upcoming Flutter Developer
-- ♟️  Chess player (Sometimes😄)
-- 🎮 Ardent FIFA2022 player
+- 🎮 Ardent FIFA player
 
 <!--
 **Gideonmm1/Gideonmm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
