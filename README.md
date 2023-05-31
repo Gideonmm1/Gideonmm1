@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - Soft Skills: Great Written/Verbal English skills, Technical Writing, Collaboration, Teamwork
 
 ## Stats
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gideonmm1&theme=white-blue'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=gideonmm1&theme=black-blue'>
 
 <br>
 <img src='http://ForTheBadge.com/images/badges/built-with-love.svg'>
